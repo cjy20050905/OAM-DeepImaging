@@ -4,7 +4,7 @@ OAM Radar Imaging - Physical Model Module
 This module implements the physical model for Orbital Angular Momentum (OAM) radar imaging.
 It generates the observation matrix based on electromagnetic wave propagation theory.
 
-Author: [Your Name]
+Author: Dryoung
 Date: 2026-03-06
 License: MIT
 """

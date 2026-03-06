@@ -4,7 +4,7 @@ OAM Radar Imaging - Neural Network Model
 This module implements the end-to-end deep learning model for OAM radar imaging.
 The model directly learns the mapping from measurement vectors to target images.
 
-Author: [Your Name]
+Author: Dryoung
 Date: 2026-03-06
 License: MIT
 """

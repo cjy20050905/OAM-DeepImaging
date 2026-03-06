@@ -10,7 +10,7 @@ This script generates comprehensive visualizations for paper figures:
 Usage:
     python visualize.py --model_path outputs/best_model.pth --output_dir figures/
 
-Author: [Your Name]
+Author: Dryoung
 Date: 2026-03-06
 License: MIT
 """

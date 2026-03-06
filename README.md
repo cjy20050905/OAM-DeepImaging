@@ -30,8 +30,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/oam-radar-imaging.git
-cd oam-radar-imaging
+git clone https://github.com/Dryoung/OAM-DeepImaging.git
+cd OAM-DeepImaging
 
 # Install dependencies
 pip install -r requirements.txt
@@ -140,7 +140,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{oam_radar_2026,
   title={End-to-End Deep Learning for OAM Radar Sparse Target Imaging},
-  author={Your Name},
+  author={Dryoung},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
@@ -157,15 +157,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Dryoung
+- **Email**: 3241347200@qq.com
+- **GitHub**: [@Dryoung](https://github.com/Dryoung)
 
 ## 🔗 Links
 
 - [Paper](https://arxiv.org/abs/xxxx.xxxxx) (Coming soon)
 - [Supplementary Material](docs/supplementary.pdf) (Coming soon)
-- [Project Page](https://yourusername.github.io/oam-radar-imaging) (Coming soon)
+- [Project Page](https://dryoung.github.io/OAM-DeepImaging) (Coming soon)
 
 ---
 
