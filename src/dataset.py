@@ -4,7 +4,7 @@ OAM Radar Imaging - Dataset Module
 This module implements the dataset generation for OAM radar sparse target imaging.
 It generates synthetic sparse targets and simulates the forward measurement process.
 
-Author: Dryoung
+Author: Jiayan Chen
 Date: 2026-03-06
 License: MIT
 """

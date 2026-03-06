@@ -140,7 +140,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{oam_radar_2026,
   title={End-to-End Deep Learning for OAM Radar Sparse Target Imaging},
-  author={Dryoung},
+  author={Jiayan Chen},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Dryoung
+- **Author**: Jiayan Chen
 - **Email**: 3241347200@qq.com
 - **GitHub**: [@Dryoung](https://github.com/Dryoung)
 

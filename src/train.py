@@ -6,7 +6,7 @@ This script trains the end-to-end reconstruction network for OAM radar imaging.
 Usage:
     python train.py --config configs/default.yaml
 
-Author: Dryoung
+Author: Jiayan Chen
 Date: 2026-03-06
 License: MIT
 """

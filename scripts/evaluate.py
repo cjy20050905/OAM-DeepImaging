@@ -6,7 +6,7 @@ This script evaluates the trained model and compares with baseline methods.
 Usage:
     python evaluate.py --model_path outputs/best_model.pth
 
-Author: Dryoung
+Author: Jiayan Chen
 Date: 2026-03-06
 License: MIT
 """
